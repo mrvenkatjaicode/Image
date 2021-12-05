@@ -1,0 +1,33 @@
+[
+    {
+        "SubCategory": [
+            {
+                "Id": 1,
+                "Name": "Fly Ash brick",
+                "Status": true,
+                "CategoryId": 1
+            }
+        ],
+        "Id": 1,
+        "Name": "Brick",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 2,
+                "Name": "Readymix ",
+                "Status": true,
+                "CategoryId": 2
+            },
+            {
+                "Id": 14,
+                "Name": "Hydrophobic wall care putty",
+                "Status": true,
+                "CategoryId": 2
+            }
+        ],
+        "Id": 2,
+        "Name": "Putty",
+        "Status": true
+    },
