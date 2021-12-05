@@ -1,0 +1,18 @@
+            {
+                "Id": 6,
+                "Name": "OPC",
+                "Status": true,
+                "CategoryId": 6
+            },
+            {
+                "Id": 7,
+                "Name": "PPC",
+                "Status": true,
+                "CategoryId": 6
+            },
+            {
+                "Id": 8,
+                "Name": "PSC",
+                "Status": true,
+                "CategoryId": 6
+            }
