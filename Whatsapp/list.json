@@ -1,0 +1,331 @@
+[
+    {
+        "SubCategory": [
+            {
+                "Id": 1,
+                "Name": "Fly Ash brick",
+                "Status": true,
+                "CategoryId": 1
+            }
+        ],
+        "Id": 1,
+        "Name": "Brick",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 2,
+                "Name": "Readymix ",
+                "Status": true,
+                "CategoryId": 2
+            },
+            {
+                "Id": 14,
+                "Name": "Hydrophobic wall care putty",
+                "Status": true,
+                "CategoryId": 2
+            }
+        ],
+        "Id": 2,
+        "Name": "Putty",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 3,
+                "Name": "AAC",
+                "Status": true,
+                "CategoryId": 3
+            }
+        ],
+        "Id": 3,
+        "Name": "Block",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 4,
+                "Name": "Dry Mix",
+                "Status": true,
+                "CategoryId": 4
+            }
+        ],
+        "Id": 4,
+        "Name": "Mortar",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 5,
+                "Name": "Dry Mix",
+                "Status": true,
+                "CategoryId": 5
+            }
+        ],
+        "Id": 5,
+        "Name": "Plaster",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 6,
+                "Name": "OPC",
+                "Status": true,
+                "CategoryId": 6
+            },
+            {
+                "Id": 7,
+                "Name": "PPC",
+                "Status": true,
+                "CategoryId": 6
+            },
+            {
+                "Id": 8,
+                "Name": "PSC",
+                "Status": true,
+                "CategoryId": 6
+            }
+        ],
+        "Id": 6,
+        "Name": "Cement",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 9,
+                "Name": "500D",
+                "Status": true,
+                "CategoryId": 7
+            },
+            {
+                "Id": 10,
+                "Name": "BILLETS",
+                "Status": true,
+                "CategoryId": 7
+            },
+            {
+                "Id": 11,
+                "Name": "CRS",
+                "Status": true,
+                "CategoryId": 7
+            },
+            {
+                "Id": 12,
+                "Name": "RMR",
+                "Status": true,
+                "CategoryId": 7
+            },
+            {
+                "Id": 13,
+                "Name": "TMT",
+                "Status": true,
+                "CategoryId": 7
+            }
+        ],
+        "Id": 7,
+        "Name": "Steel",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 16,
+                "Name": "LED Bulb & T-Bulb",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 17,
+                "Name": "LED COB light",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 18,
+                "Name": "LED Desk Light",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 19,
+                "Name": "LED DownLighter - Concealed",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 20,
+                "Name": "LED Flood Light",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 21,
+                "Name": "LED Rope",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 22,
+                "Name": "LED Spot Light",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 23,
+                "Name": "LED Street Light",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 24,
+                "Name": "LED Strip & Drivers",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 25,
+                "Name": "LED Surface",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 26,
+                "Name": "LED Troffer",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 27,
+                "Name": "Wall Light",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 28,
+                "Name": "Led Batten",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 29,
+                "Name": "LED DownLighters - EliteRange",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 30,
+                "Name": "LED DownLighters",
+                "Status": true,
+                "CategoryId": 10
+            },
+            {
+                "Id": 31,
+                "Name": "LED Surface - Full Glow Range",
+                "Status": true,
+                "CategoryId": 10
+            }
+        ],
+        "Id": 10,
+        "Name": "Philips ECOLINK",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 33,
+                "Name": "ACS - EURO SECURE IAS 300",
+                "Status": true,
+                "CategoryId": 12
+            },
+            {
+                "Id": 35,
+                "Name": "ACS - EUROSECURE I SEE 700",
+                "Status": true,
+                "CategoryId": 12
+            },
+            {
+                "Id": 36,
+                "Name": "ACS - EUROVIGIL I DETER BM100",
+                "Status": true,
+                "CategoryId": 12
+            },
+            {
+                "Id": 39,
+                "Name": "CCTV - EUROVIGIL I VIEW IP 200 2mp",
+                "Status": true,
+                "CategoryId": 12
+            },
+            {
+                "Id": 40,
+                "Name": "CCTV - EUROVIGIL I VIEW IP 300 2mp",
+                "Status": true,
+                "CategoryId": 12
+            },
+            {
+                "Id": 41,
+                "Name": "CCTV - EUROVIGIL I VIEW IP 400",
+                "Status": false,
+                "CategoryId": 12
+            },
+            {
+                "Id": 42,
+                "Name": "CCTV - EUROVIGIL I VIEW IP 500",
+                "Status": true,
+                "CategoryId": 12
+            },
+            {
+                "Id": 43,
+                "Name": "LOCK - EUROVIGIL ID LOCK 250",
+                "Status": true,
+                "CategoryId": 12
+            },
+            {
+                "Id": 44,
+                "Name": "YALE LOCK 4109",
+                "Status": true,
+                "CategoryId": 12
+            },
+            {
+                "Id": 45,
+                "Name": "YALE LOCK 4110",
+                "Status": true,
+                "CategoryId": 12
+            }
+        ],
+        "Id": 12,
+        "Name": "Automation - Security Systems",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 49,
+                "Name": "Test Sub",
+                "Status": true,
+                "CategoryId": 19
+            }
+        ],
+        "Id": 19,
+        "Name": "Test 1",
+        "Status": true
+    },
+    {
+        "SubCategory": [
+            {
+                "Id": 50,
+                "Name": "Sumsung",
+                "Status": true,
+                "CategoryId": 20
+            }
+        ],
+        "Id": 20,
+        "Name": "Mobile ",
+        "Status": true
+    }
+]
